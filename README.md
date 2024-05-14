@@ -6,3 +6,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([link](https://www.linkedin.com/in/júlia-moraes-887673232/)) 
 
 Minhas linguagens:
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
