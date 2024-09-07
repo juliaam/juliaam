@@ -2,11 +2,6 @@
 
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaam&hide=jupyter%20notebook&theme=synthwave&icons=true&prs_merged=true&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaam&theme=synthwave&layout=compact&hide=jupyter%20notebook) 
-
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-moraes-887673232/)
-
-
 Meus estudos e conhecimentos:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -18,3 +13,10 @@ Meus estudos e conhecimentos:
 ![NestJs](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaam&theme=synthwave&layout=compact&hide=jupyter%20notebook) 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-moraes-887673232/)
+
+
