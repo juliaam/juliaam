@@ -5,7 +5,7 @@
         about me:<br>
                - 19  <br> 
                - analysis and systems development student at pucrs  <br> 
-               - working as frontend developer at way data solution.
+               - working as frontend developer at way data solution <br>
         <br>
         langs:<br>
             > javascript, typescript, c#.
