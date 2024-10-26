@@ -1,5 +1,5 @@
 about me:
-- she/her, brazilian, pt-br + eng
+- 19
 - analysis and systems development student at pucrs
 
 langs:
