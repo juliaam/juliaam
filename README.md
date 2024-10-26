@@ -8,7 +8,7 @@
                - working as frontend developer at way data solution <br>
         <br>
         langs:<br>
-            > javascript, typescript, c#.
+            > javascript, typescript, c#
         <br>
         <br>
         tools:<br>
