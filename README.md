@@ -14,7 +14,7 @@
         <br>
         tools:<br>
           - <a href="https://react.dev">react</a> - library for building user interfaces <br> 
-          - <a href="https://vuejs.org/"><a/> vue - frontend framework
+          - <a href="https://vuejs.org/">vue<a/> - frontend framework
        <br>
        <br>
       </samp>
