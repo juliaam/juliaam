@@ -3,7 +3,7 @@
     <p float="left">
       <samp>
         about me:<br>
-               - 19  <br> 
+               - 20  <br> 
                - analysis and systems development student at pucrs  <br> 
                - working as frontend developer
         <br>
