@@ -8,7 +8,7 @@
                - working as frontend developer
         <br>
         langs:<br>
-            > javascript, typescript, c#
+            > javascript and typescript
         <br>
         <br>
         tools:<br>
