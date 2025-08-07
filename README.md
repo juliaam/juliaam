@@ -10,12 +10,6 @@
         langs:<br>
             > javascript and typescript
         <br>
-        <br>
-        tools:<br>
-          - <a href="https://react.dev">react</a> - library for building user interfaces <br> 
-          - <a href="https://vuejs.org/">vue<a/> - frontend framework
-       <br>
-       <br>
       </samp>
     </p>
   </p>
